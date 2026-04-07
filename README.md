@@ -26,9 +26,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hyzark&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hyzark&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hyzark&theme=tokyonight&hide_border=true) ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hyzark&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hyzark&layout=compact&theme=tokyonight&hide_border=true)
 
