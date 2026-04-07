@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Marcus Vinícius.
 
 🎓 Estudante de Ciência da Computação pela UNINOVE  
-💻 Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI Manuel Garcia Filho 
+💻 Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI Manuel Garcia Filho   
 🚀 Iniciando minha trajetória como desenvolvedor
 
 ---
